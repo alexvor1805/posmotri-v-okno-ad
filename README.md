@@ -1,2 +1,2 @@
-https://github.com/alexvor1805/posmotri_v_okno-ad
+https://github.com/alexvor1805/posmotri-v-okno-ad
 
